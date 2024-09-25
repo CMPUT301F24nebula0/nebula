@@ -3,7 +3,8 @@ package com.example.nebula;
 public abstract class Shape {
     private int x;
     private int y;
-
+    public String color = "chartreuse";
+    
     Shape(int x, int y) {
         this.x = x;
         this.y = y;
