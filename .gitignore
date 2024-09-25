@@ -21,6 +21,6 @@ rad.json
 #Test results file
 TestResults.xml
 #Android Studio settings files 
-*.idea 
+.idea/* 
 #Project build folder
 .gradle/
